@@ -31,3 +31,16 @@ cvc+a'ssa'ssi'ssu'sse'sso'sseu'sseo
 cvc+a'kkak'kkik'kkuk'kkek'kkok'kkeuk'kkeok
 cvc+a'ttat'ttit'ttut'ttet'ttot'tteut'tteot
 cvc+a'ppap'ppip'ppup'ppep'ppop'ppeup'ppeop
+
+vv+a'i'a'u'a'e'a
+vv+i'u'i'e'i'o'i
+vv+u'e'u'o'u'eu'u
+vv+e'o'e'eu'e'eo'e
+vv+o'eu'o'eo'o'a'o
+vv+eu'eo'eu'a'eu'i'eu
+vv+eo'a'eo'i'eo'u'eo
+
+vsemiv+a'ya'i'ya'u'ya'e'ya
+vsemiv+o'ya'eu'ya'eo'ya
+vsemiv+a'wa'i'wa'u'wa'e'wa
+vsemiv+o'wa'eu'wa'eo'wa
