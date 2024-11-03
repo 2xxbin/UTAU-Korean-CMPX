@@ -1,15 +1,14 @@
 -c+n'n'na_m'm'ma
 -c+ng'ng'nga_l'l'la
 -c+s's'sa_ss'ss'ssa
--v+y'y'ya_w'w'wa
+-semiv+y'y'ya_w'w'wa
 
 -cv+ha_hi_hu_he
--cv+ho_heu_heo_hyo
--cv+hya_hye_hyu_hyeo
--cv+hwa_hwe_hwi_hwo
+-cv+ho_heu_heo
+-csemiv+hy'y'ya_hw'w'wa
 
-vb+a1M'i1M'u1M'e1M'o1M'eu1M'eo1M
-vb+a2N'i2N'u2N'e2N'o2N'eu2N'eo2N
-vb+a3NG'i3NG'u3NG'e3NG'o3NG'eu3NG'eo3NG
-vb+a4L'i4L'u4L'e4L'o4L'eu4L'eo4L
+batchim+a1M'i1M'u1M'e1M'o1M'eu1M'eo1M
+batchim+a2N'i2N'u2N'e2N'o2N'eu2N'eo2N
+batchim+a3NG'i3NG'u3NG'e3NG'o3NG'eu3NG'eo3NG
+batchim+a4L'i4L'u4L'e4L'o4L'eu4L'eo4L
 
