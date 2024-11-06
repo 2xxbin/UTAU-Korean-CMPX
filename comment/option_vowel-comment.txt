@@ -1,5 +1,5 @@
-v+aeLong'H 애(장음)'(거칠게날숨)
-batchim+eoer'R_erLong'H [영어 ER] 어ㄹ_ㄹ(장음)'(거칠게날숨)
+v+aeLong'H 애(길게)'(거칠게날숨)
+batchim+eoer'R_erLong'H [영어 ER] 어ㄹ_ㄹ(길게)'(거칠게날숨)
 
 -cv+hae 해
 batchim+ae1M'ae2N'ae3NG'ae4L 앰'앤'앵'앨
