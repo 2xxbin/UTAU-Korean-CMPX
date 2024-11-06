@@ -1,0 +1,22 @@
+-c+rr'rr'rra [영어 R] ㄹ'ㄹ'라
+
+cvc+'a'fa'fi'fu'fe'fo'feu'feo [영어 F] 아'파'피'푸'페'포'프'퍼
+cvc+'a'va'vi'vu've'vo'veu'veo [영어 V] 아'바'비'부'베'보'브'버
+cvc+'a'za'zi'zu'ze'zo'zeu'zeo [영어 Z] 아'자'지'주'제'조'즈'저
+cvc+'a'tha'thi'thu'the'tho'theu'theo [영어 TH] 아'따'띠'뚜'떼'또'뜨'떠
+cvc+'a'rra'rri'rru'rre'rro'rreu'rreo [영어 R] 아'라'리'루'레'로'르'러
+cv+'a'RRa'RRi'RRu'RRe'RRo'RReu'RReo [스페인식 혀굴림 R] 아'라'리'루'레'로'르'러
+
+
+csemiv+a'fy'y'ya'fw'w'wa [영어 F] 아'피'이'야'푸'우'와
+csemiv+a'vy'y'ya'vw'w'wa [영어 V] 아'비'이'야'부'우'와
+csemiv+a'zy'y'ya'zw'w'wa [영어 Z] 아'지'이'야'주'우'와
+csemiv+a'thy'y'ya'thw'w'wa [영어 TH] 아'띠'이'야'뚜'우'와
+csemiv+a'rry'y'ya'rrw'w'wa [영어 R] 아'리'이'야'루'우'와
+csemiv+a'RRy'y'ya'RRw'w'wa [스페인식 혀굴림 R] 아'리'이'야'루'우'와
+
+cc+fang'fan'fam'fal'fa [영어 F] 팡'판'팜'팔'파
+cc+vang'van'vam'val'va [영어 V] 방'반'밤'발'바
+cc+zang'zan'zam'zal'za [영어 Z] 장'잔'잠'잘'자
+cc+thang'than'tham'thal'tha [영어 TH] 땅'딴'땀'딸'따
+cc+rrang'rran'rram'rral'rra [영어 R] 랑'란'람'랄'라
