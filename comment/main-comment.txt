@@ -46,7 +46,7 @@ vsemiv+a'wa'i'wa'u'wa'e'wa 아'와'이'와'우'와'에'와
 vsemiv+o'wa'eu'wa'eo'wa 오'와'으'와'어'와
 semivv+y'ya'y'yeo'y'yo'y'yu 이'야'이'여'이'요'이'유
 semivv+w'wa'w'wo'w'wi'w'we 우'와'우'워'우'위'우'웨
-semivv+y'y'ye 이'이'예
+semivv+y'y'ye_eu'eu'ui 이'이'예_으'으'의
 
 csemiv+a'gy'y'ya'gw'w'wa 아'기'이'야'구'우'와
 csemiv+a'ny'y'ya'nw'w'wa 아'니'이'야'누'우'와

@@ -46,7 +46,7 @@ vsemiv+a'wa'i'wa'u'wa'e'wa
 vsemiv+o'wa'eu'wa'eo'wa
 semivv+y'ya'y'yeo'y'yo'y'yu
 semivv+w'wa'w'wo'w'wi'w'we
-semivv+y'y'ye
+semivv+y'y'ye_eu'eu'ui
 
 csemiv+a'gy'y'ya'gw'w'wa
 csemiv+a'ny'y'ya'nw'w'wa
