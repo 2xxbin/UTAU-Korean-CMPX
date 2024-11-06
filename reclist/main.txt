@@ -19,7 +19,6 @@ cvc+a'ra'ri'ru're'ro'reu'reo
 cvc+a'ma'mi'mu'me'mo'meu'meo
 cvc+a'ba'bi'bu'be'bo'beu'beo
 cvc+a'sa'si'su'se'so'seu'seo
-cvc+ang'ang'ing'ung'eng'ong'eung'eong
 cvc+a'ja'ji'ju'je'jo'jeu'jeo
 cvc+a'cha'chi'chu'che'cho'cheu'cheo
 cvc+a'ka'ki'ku'ke'ko'keu'keo
@@ -28,9 +27,11 @@ cvc+a'pa'pi'pu'pe'po'peu'peo
 cvc+a'ha'hi'hu'he'ho'heu'heo
 cvc+a'jja'jji'jju'jje'jjo'jjeu'jjeo
 cvc+a'ssa'ssi'ssu'sse'sso'sseu'sseo
-cvc+a'kkak'kkik'kkuk'kkek'kkok'kkeuk'kkeok
-cvc+a'ttat'ttit'ttut'ttet'ttot'tteut'tteot
-cvc+a'ppap'ppip'ppup'ppep'ppop'ppeup'ppeop
+cvc+ak'kkak'kkik'kkuk'kkek'kkok'kkeuk'kkeok
+cvc+at'ttat'ttit'ttut'ttet'ttot'tteut'tteot
+cvc+ap'ppap'ppip'ppup'ppep'ppop'ppeup'ppeop
+cvc+al'lal'lil'lul'lel'lol'leul'leol
+cvc+ang'ang'ing'ung'eng'ong'eung'eong
 
 vv+a'i'a'u'a'e'a
 vv+i'u'i'e'i'o'i
