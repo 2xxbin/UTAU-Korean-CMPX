@@ -1,0 +1,31 @@
+v+aeLong'H 애(장음)'(거칠게날숨)
+batchim+eoer'R_erLong'H [영어 ER] 어ㄹ_ㄹ(장음)'(거칠게날숨)
+
+-cv+hae 해
+batchim+ae1M'ae2N'ae3NG'ae4L 앰'앤'앵'앨
+batchim+aer'ier'uer'eer'oer'euer'eoer'aeer [영어 ER] 아ㄹ'이ㄹ'우ㄹ'에ㄹ'오ㄹ'으ㄹ'어ㄹ'애ㄹ
+
+vv+a'ae'i'ae'u'ae'e'ae 아'애'이'애'우'애'에'애
+vv+o'ae'eu'ae'eo'ae'a 오'애'으'애'어'애'아
+vv+ae'o 애'오
+vsemiv+yae'yae_wae'wae 얘'얘_왜'왜
+vsemiv+yeoer'yeo_woer'wo [영어 ER] 여ㄹ'여_워ㄹ'워
+semivv+y'y'yae_w'w'wae 이'이'얘_우'우'왜
+
+cvc+ae'gae'nae'dae'rae'mae'bae'sae 애'개'내'대'래'매'배'새
+cvc+ae'jae'chae'kae'tae'pae'hae 애'재'채'캐'태'패'해
+cvc+ae'jjae'ssae'kkae'ttae'ppae 애'째'쌔'깨'때'빼
+cvc+ael'lae_aeng'ngae 앨'래_앵'애
+
+cc+eoer'geoer'neoer'deoer'reoer'meoer'beoer'seoer [영어 ER] 어ㄹ'거ㄹ'너ㄹ'더ㄹ'머ㄹ'버ㄹ'서ㄹ
+cc+eoer'jeoer'cheoer'keoer'teoer'peoer'heoer [영어 ER] 어ㄹ'저ㄹ'처ㄹ'커ㄹ'터ㄹ'퍼ㄹ'허ㄹ
+cc+eoer'jjeoer'sseoer'kkeoer'tteoer'ppeoer [영어 ER]  어ㄹ'쩌ㄹ'써ㄹ'꺼ㄹ'떠ㄹ'뻐ㄹ
+
+batchimv+ang'an'am'al'aer'a [영어 ER] 앙'안'암'알'아ㄹ'아
+batchimv+ing'in'im'il'ier'i [영어 ER] 잉'인'임'일'이ㄹ'이
+batchimv+ung'un'um'ul'uer'u [영어 ER] 웅'운'움'울'우ㄹ'우
+batchimv+eng'en'em'el'eer'e [영어 ER] 엥'엔'엠'엘'에ㄹ'에
+batchimv+ong'on'om'ol'oer'o [영어 ER] 옹'온'옴'올'오ㄹ'오
+batchimv+eung'eun'eum'eul'euer'eu [영어 ER] 응'은'음'을'으ㄹ'으
+batchimv+eong'eon'eom'eol'eoer'eo [영어 ER] 엉'언'엄'얼'어ㄹ'어
+batchimv+aeng'aen'aem'ael'aeer'ae [영어 ER] 앵'앤'앰'앨'애ㄹ'애
