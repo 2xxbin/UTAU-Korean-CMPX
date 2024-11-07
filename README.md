@@ -24,5 +24,5 @@
 - [영어 알파싱(ARPASing) 리스트](https://arpasing.tubs.wtf/en/)
 - [쇼왕자식 한국어 딥보컬 리스트](https://cafe.naver.com/deepvocallab/267)
 - [한국어 CBNN 리스트](https://github.com/EX3exp/UTAU-Korean-CBNN/tree/main)
-- [한국어 CVC 리스트](https://m.blog.naver.com/zetty123/221728323094)
 - [한국어 VCCV 리스트](https://cafe.naver.com/utauteto/21649)
+- [한국어 CVC 리스트](https://m.blog.naver.com/zetty123/221728323094)
