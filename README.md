@@ -13,6 +13,9 @@
 
 `- C`, `- V`, `- CV`, `CV`, `VV`, `VC`, `CC` 등의 형식을 지원합니다.
 
+`100 BPM` ~ `160 BPM` 사이의 BGM 사용을 추천드립니다.<br />
+너무 빠른 BPM의 BGM을 사용하실 경우, 발음 추출이 원할하지 않을 수 있습니다.
+
 <br />
 
 [자세한 내용은 레포지토리의 위키 항목을 참고해주세요.](https://github.com/2xxbin/UTAU-Korean-CMPX/wiki)
