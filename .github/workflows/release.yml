@@ -56,6 +56,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.upload_github_release.outputs.upload_url }}
-          assets_path: ./cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
+          asset_path: ./cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
           asset_name: cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
           asset_content_type: application/zip
