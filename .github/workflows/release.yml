@@ -1,0 +1,43 @@
+name: Release Reclist
+
+on:
+  push:
+    branches:
+      - 'release/**'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
+
+      # 2. 버전 추출
+      - name: Extrach Version From Branch Name
+        run: |
+          VERSION=${GITHUB_REF_NAME#release/}
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+
+      # 3. zip 패키징
+      - name: Package Reclist To Zip
+        run: |
+          mkdir temp
+          cp -r comment temp/comment
+          cp -r oto temp/oto
+          cp -r reclist temp/reclist
+          cp -r .assets/* temp/*
+          zip -r cmpx_reclist_${{ github.env.VERSION }}.zip temp/*
+
+      # 4. 릴리즈
+      - name: Upload Github Release
+        uses: ncipollo/release-action@v1
+        with:
+          name: ${{ github.env.VERSION }}
+          body: 'To Be Updated..'
+          assets: cmpx_reclist_${{ github.env.VERSION }}.zip
