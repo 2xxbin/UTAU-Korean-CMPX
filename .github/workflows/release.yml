@@ -43,7 +43,7 @@ jobs:
         id: upload_github_release
         uses: actions/create-release@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.extract_version.outputs.version }}
           release_name: ${{ steps.extract_version.outputs.version }}
@@ -53,7 +53,7 @@ jobs:
       - name: Upload Github Release Assets
         uses: actions/upload-release-asset@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.upload_github_release.outputs.upload_url }}
           assets_path: ./cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
