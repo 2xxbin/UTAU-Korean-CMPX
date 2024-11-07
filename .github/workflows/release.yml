@@ -5,6 +5,9 @@ on:
     branches:
       - 'release/**'
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -17,10 +20,11 @@ jobs:
           ref: ${{ github.ref_name }}
 
       # 2. 버전 추출
-      - name: Extrach Version From Branch Name
+      - name: Extract Version From Branch Name
+        id: extract_version
         run: |
           VERSION=${GITHUB_REF_NAME#release/}
-          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "::set-output name=version::${VERSION}"
         env:
           GITHUB_REF_NAME: ${{ github.ref_name }}
 
@@ -32,12 +36,22 @@ jobs:
           cp -r oto temp/oto
           cp -r reclist temp/reclist
           cp -r .assets/* temp/*
-          zip -r cmpx_reclist_${{ github.env.VERSION }}.zip temp/*
+          zip -r cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip temp/*
 
       # 4. 릴리즈
       - name: Upload Github Release
-        uses: ncipollo/release-action@v1
+        id: upload_github_release
+        uses: actions/create-release@v1
         with:
-          name: ${{ github.env.VERSION }}
+          tag_name: ${{ steps.extract_version.outputs.version }}
+          relase_name: ${{ steps.extract_version.outputs.version }}
           body: 'To Be Updated..'
-          assets: cmpx_reclist_${{ github.env.VERSION }}.zip
+
+      # 5. 리스트 업로드
+      - name: Upload Github Release Assets
+        uses: actions/upload-release-asset@v1
+        with:
+          upload-url: ${{ steps.upload_github_release.outputs.upload_url }}
+          assets_path: ./cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
+          asset_name: cmpx_reclist_${{ steps.extract_version.outputs.version }}.zip
+          asset_content_type: application/zip
