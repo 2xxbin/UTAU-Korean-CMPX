@@ -1,0 +1,33 @@
+endbreath+aGS'a'Rb'a'B'a'E 아(끊기)'아'(헐떡임)'아'(들숨)'아'(보컬프라이)
+endbreath+iGS'i'Rb'i'B'i'E 이(끊기)'이'(헐떡임)'이'(들숨)'이'(보컬프라이)
+endbreath+uGS'u'Rb'u'B'u'E 우(끊기)'우'(헐떡임)'우'(들숨)'우'(보컬프라이)
+endbreath+eGS'e'Rb'e'B'e'E 에(끊기)'에'(헐떡임)'에'(들숨)'에'(보컬프라이)
+endbreath+oGS'o'Rb'o'B'o'E 오(끊기)'오'(헐떡임)'오'(들숨)'오'(보컬프라이)
+endbreath+euGS'eu'Rb'eu'B'eu'E 으(끊기)'으'(헐떡임)'으'(들숨)'으'(보컬프라이)
+endbreath+eoGS'eo'Rb'eo'B'eo'E 어(끊기)'어'(헐떡임)'어'(들숨)'어'(보컬프라이)
+endbreath+angGS'ang'Rb'ang'B'ang'E 앙(끊기)'앙'(헐떡임)'앙'(들숨)'앙'(보컬프라이)
+endbreath+anGS'an'Rb'an'B'an'E 안(끊기)'안'(헐떡임)'안'(들숨)'안'(보컬프라이)
+endbreath+amGS'am'Rb'am'B'am'E 암(끊기)'암'(헐떡임)'암'(들숨)'암'(보컬프라이)
+endbreath+alGS'al'Rb'al'B'al'E 알(끊기)'알'(헐떡임)'알'(들숨)'알'(보컬프라이)
+
+edge+E'a_E'i_E'u (보컬프라이)'아_(보컬프라이)'이_(보컬프라이)'우
+edge+E'e_E'o_E'eu (보컬프라이)'에_(보컬프라이)'오_(보컬프라이)'으
+edge+E'eo_E'n_E'm (보컬프라이)'어_(보컬프라이)'ㄴ_(보컬프라이)'ㅁ
+edge+E'ng_E'l (보컬프라이)'ㅇ_(보컬프라이)'ㄹ
+
+breath+dynbr1'a (큰 입모양으로 숨넘어갈정도로 크게 들이마셔 주세요)'아
+breath+dynbr2'a (작은 입모양으로 숨넘어갈정도로 크게 들이마셔 주세요)'아
+breath+slowbr1'a (큰 입모양으로 천천히 들이마셔 주세요)'아
+breath+slowbr2'a (작은 입모양으로 천천히 들이마셔 주세요)'아
+breath+fastbr1'a (큰 입모양으로 빠르게 들이마셔 주세요)'아
+breath+fastbr2'a (작은 입모양으로 빠르게 들이마셔 주세요)'아
+breath+br1'a (평범한 들숨)'아
+breath+br2'a (평범한 들숨)'아
+
+vc+a'k_a't_a'p [영어자음을 발음한다 생각하기] 아'ㅋ_아'ㅌ_'아'ㅍ
+vc+i'k_i't_i'p [영어자음을 발음한다 생각하기] 이'ㅋ_이'ㅌ_'이'ㅍ
+vc+u'k_u't_u'p [영어자음을 발음한다 생각하기] 우'ㅋ_우'ㅌ_'우'ㅍ
+vc+e'k_e't_e'p [영어자음을 발음한다 생각하기] 에'ㅋ_에'ㅌ_'에'ㅍ
+vc+o'k_o't_o'p [영어자음을 발음한다 생각하기] 오'ㅋ_오'ㅌ_'오'ㅍ
+vc+eu'k_eu't_eu'p [영어자음을 발음한다 생각하기] 으'ㅋ_으'ㅌ_'으'ㅍ
+vc+eo'k_eo't_eo'p [영어자음을 발음한다 생각하기] 어'ㅋ_어'ㅌ_'어'ㅍ
