@@ -49,7 +49,7 @@ jobs:
           release_name: ${{ steps.extract_version.outputs.version }}
           body: 'To Be Updated..'
 
-      # 5. 리스트 업로드
+      # 5.  리스트 업로드
       - name: Upload Github Release Assets
         uses: actions/upload-release-asset@v1
         env:
