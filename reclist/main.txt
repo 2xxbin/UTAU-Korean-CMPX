@@ -2,6 +2,7 @@
 -c+ng'ng'nga_l'l'la
 -c+s's'sa_ss'ss'ssa
 -semiv+y'y'ya_w'w'wa
+-semiv+eu'eu'ui
 
 -cv+ha_hi_hu_he
 -cv+ho_heu_heo
@@ -44,6 +45,8 @@ vsemiv+a'ya'i'ya'u'ya'e'ya
 vsemiv+o'ya'eu'ya'eo'ya
 vsemiv+a'wa'i'wa'u'wa'e'wa
 vsemiv+o'wa'eu'wa'eo'wa
+vsemiv+a'ui'i'ui'u'ui'e'ui
+vsemiv+o'ui'eu'ui'eo'ui
 semivv+y'ya'y'yeo'y'yo'y'yu
 semivv+w'wa'w'wo'w'wi'w'we
 semivv+y'y'ye_eu'eu'ui
@@ -87,6 +90,9 @@ cc+ssang'ssan'ssam'ssal'ssa
 cc+kkang'kkan'kkam'kkal'kka
 cc+ttang'ttan'ttam'ttal'tta
 cc+ppang'ppan'ppam'ppal'ppa
+csemiv+yang'yan'yam'yal'ya
+csemiv+wang'wan'wam'wal'wa
+csemiv+uing'uin'uim'uil'ui
 
 v+aLong'H
 v+iLong'H
