@@ -2,6 +2,7 @@
 -c+ng'ng'nga_l'l'la ㅇ'ㅇ'아_ㄹ'ㄹ'라
 -c+s's'sa_ss'ss'ssa ㅅ'ㅅ'사_ㅆ'ㅆ'싸
 -semiv+y'y'ya_w'w'wa 이'이'야_우'우'와
+-semiv+eu'eu'ui 으'으'의
 
 -cv+ha_hi_hu_he 하_히_후_헤
 -cv+ho_heu_heo 호_흐_허
@@ -87,6 +88,9 @@ cc+ssang'ssan'ssam'ssal'ssa 쌍'싼'쌈'쌀'싸
 cc+kkang'kkan'kkam'kkal'kka 캉'칸'캄'칼'카
 cc+ttang'ttan'ttam'ttal'tta 땅'딴'땀'딸'따
 cc+ppang'ppan'ppam'ppal'ppa 빵'빤'빰'빨'빠
+csemiv+yang'yan'yam'yal'ya 양'얀'얌'얄'야
+csemiv+wang'wan'wam'wal'wa 왕'완'왐'왈'와
+csemiv+uing'uin'uim'uil'ui 읭'읜'읨'읠'의
 
 v+aLong'H 아(길게)'(거칠게날숨)
 v+iLong'H 이(길게)'(거칠게날숨)

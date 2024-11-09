@@ -8,8 +8,8 @@ batchim+aer'ier'uer'eer'oer'euer'eoer'aeer [영어 ER] 아ㄹ'이ㄹ'우ㄹ'에�
 vv+a'ae'i'ae'u'ae'e'ae 아'애'이'애'우'애'에'애
 vv+o'ae'eu'ae'eo'ae'a 오'애'으'애'어'애'아
 vv+ae'o 애'오
-vsemiv+yae'yae_wae'wae 얘'얘_왜'왜
-vsemiv+yeoer'yeo_woer'wo [영어 ER] 여ㄹ'여_워ㄹ'워
+vsemiv+yae'yae_wae'wae_ae'ui 얘'얘_왜'왜_애'의
+vsemiv+yeoer'yeo_woer'wo_woer'euer [영어 ER] 여ㄹ'여_워ㄹ'워_워ㄹ'으ㄹ
 semivv+y'y'yae_w'w'wae 이'이'얘_우'우'왜
 
 cvc+ae'gae'nae'dae'rae'mae'bae'sae 애'개'내'대'래'매'배'새
