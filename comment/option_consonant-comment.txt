@@ -1,11 +1,11 @@
 -c+rr'rr'rra [영어 R] ㄹ'ㄹ'라
 
-cvc+'a'fa'fi'fu'fe'fo'feu'feo [영어 F] 아'파'피'푸'페'포'프'퍼
-cvc+'a'va'vi'vu've'vo'veu'veo [영어 V] 아'바'비'부'베'보'브'버
-cvc+'a'za'zi'zu'ze'zo'zeu'zeo [영어 Z] 아'자'지'주'제'조'즈'저
-cvc+'a'tha'thi'thu'the'tho'theu'theo [영어 TH] 아'따'띠'뚜'떼'또'뜨'떠
-cvc+'a'rra'rri'rru'rre'rro'rreu'rreo [영어 R] 아'라'리'루'레'로'르'러
-cv+'a'RRa'RRi'RRu'RRe'RRo'RReu'RReo [스페인식 혀굴림 R] 아'라'리'루'레'로'르'러
+cvc+fa'fi'fu'fe'fo'feu'feo'fa [영어 F] 파'피'푸'페'포'프'퍼'파
+cvc+va'vi'vu've'vo'veu'veo'va [영어 V] 바'비'부'베'보'브'버'바
+cvc+za'zi'zu'ze'zo'zeu'zeo'za [영어 Z] 자'지'주'제'조'즈'저'자
+cvc+tha'thi'thu'the'tho'theu'theo'tha [영어 TH] 따'띠'뚜'떼'또'뜨'떠'따
+cvc+rra'rri'rru'rre'rro'rreu'rreo'rra [영어 R] 라'리'루'레'로'르'러'라
+cv+RRa'RRi'RRu'RRe'RRo'RReu'RReo'RRa [스페인식 혀굴림 R] 라'리'루'레'로'르'러'라
 
 
 csemiv+a'fy'y'ya'fw'w'wa [영어 F] 아'피'이'야'푸'우'와
