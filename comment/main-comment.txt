@@ -78,16 +78,11 @@ cc+mang'man'mam'mal'ma 망'만'맘'말'마
 cc+bang'ban'bam'bal'ba 방'반'밤'발'바
 cc+sang'san'sam'sal'sa 상'산'삼'살'사
 cc+jang'jan'jam'jal'ja 장'잔'잠'잘'자
-cc+chang'chan'cham'chal'cha 창'찬'참'찰'차
 cc+kang'kan'kam'kal'ka 캉'칸'캄'칼'카
 cc+tang'tan'tam'tal'ta 탕'탄'탐'탈'타
 cc+pang'pan'pam'pal'pa 팡'판'팜'팔'파
 cc+hang'han'ham'hal'ha 항'한'함'할'하
-cc+jjang'jjan'jjam'jjal'jja 짱'짠'짬'짤'짜
 cc+ssang'ssan'ssam'ssal'ssa 쌍'싼'쌈'쌀'싸
-cc+kkang'kkan'kkam'kkal'kka 캉'칸'캄'칼'카
-cc+ttang'ttan'ttam'ttal'tta 땅'딴'땀'딸'따
-cc+ppang'ppan'ppam'ppal'ppa 빵'빤'빰'빨'빠
 csemiv+yang'yan'yam'yal'ya 양'얀'얌'얄'야
 csemiv+wang'wan'wam'wal'wa 왕'완'왐'왈'와
 csemiv+uing'uin'uim'uil'ui 읭'읜'읨'읠'의

@@ -80,16 +80,11 @@ cc+mang'man'mam'mal'ma
 cc+bang'ban'bam'bal'ba
 cc+sang'san'sam'sal'sa
 cc+jang'jan'jam'jal'ja
-cc+chang'chan'cham'chal'cha
 cc+kang'kan'kam'kal'ka
 cc+tang'tan'tam'tal'ta
 cc+pang'pan'pam'pal'pa
 cc+hang'han'ham'hal'ha
-cc+jjang'jjan'jjam'jjal'jja
 cc+ssang'ssan'ssam'ssal'ssa
-cc+kkang'kkan'kkam'kkal'kka
-cc+ttang'ttan'ttam'ttal'tta
-cc+ppang'ppan'ppam'ppal'ppa
 csemiv+yang'yan'yam'yal'ya
 csemiv+wang'wan'wam'wal'wa
 csemiv+uing'uin'uim'uil'ui
