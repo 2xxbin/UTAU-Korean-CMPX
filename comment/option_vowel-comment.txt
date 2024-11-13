@@ -17,7 +17,7 @@ cvc+ae'jae'chae'kae'tae'pae'hae 애'재'채'캐'태'패'해
 cvc+ae'jjae'ssae'kkae'ttae'ppae 애'째'쌔'깨'때'빼
 cvc+ael'lae_aeng'ngae 앨'래_앵'애
 
-cc+eoer'geoer'neoer'deoer'reoer'meoer'beoer'seoer [영어 ER] 어ㄹ'거ㄹ'너ㄹ'더ㄹ'머ㄹ'버ㄹ'서ㄹ
+cc+eoer'geoer'neoer'deoer'reoer'meoer'beoer'seoer [영어 ER] 어ㄹ'거ㄹ'너ㄹ'더ㄹ'러ㄹ'머ㄹ'버ㄹ'서ㄹ
 cc+eoer'jeoer'cheoer'keoer'teoer'peoer'heoer [영어 ER] 어ㄹ'저ㄹ'처ㄹ'커ㄹ'터ㄹ'퍼ㄹ'허ㄹ
 cc+eoer'jjeoer'sseoer'kkeoer'tteoer'ppeoer [영어 ER]  어ㄹ'쩌ㄹ'써ㄹ'꺼ㄹ'떠ㄹ'뻐ㄹ
 
