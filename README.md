@@ -22,9 +22,28 @@
 
 <br />
 
+# DEMO
+
+- 사용된 우타우 : CMPX 데모음원 (CV. 마따따비 | X: [@matax2bi](https://x.com/matax2bi))<br />
+  `main`, `option_consonant`, `option_vowel`, `option_sepical` 녹음
+
+<br />
+
+TBD
+
+[I=Fantasy](https://www.youtube.com/watch?v=luWgq7_ZgnY) / UST 빈빈
+
+<br />
+
+TBD
+
+[Daisy Bell](https://www.youtube.com/watch?v=zgoz4qKKdV8) / UST 빈빈
+
+<br />
+
 # REFERENCE
 
-- [영어 알파싱(ARPASing) 리스트](https://arpasing.tubs.wtf/en/)
+- [영어 알파싱(arpasing) 리스트](https://arpasing.tubs.wtf/en/)
 - [쇼왕자식 한국어 딥보컬 리스트](https://cafe.naver.com/deepvocallab/267)
 - [한국어 CBNN 리스트](https://github.com/EX3exp/UTAU-Korean-CBNN/tree/main)
 - [한국어 VCCV 리스트](https://cafe.naver.com/utauteto/21649)
