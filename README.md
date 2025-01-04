@@ -5,7 +5,7 @@
 | main             |      100개       |      560개      |
 | option_consonant |       18개       |      110개      |
 | option_sepcial   |       30개       |      84개       |
-| option_vowel     |       26개       |      136개      |
+| option_vowel     |       50개       |      287개      |
 
 <br />
 

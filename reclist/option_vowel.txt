@@ -1,14 +1,28 @@
 v+aeLong'H
+v+oeLong'H
+v+uyLong'H
 batchim+eoer'R_erLong'H
 
--cv+hae
+-cv+hae_hoe_huy
 batchim+ae1M'ae2N'ae3NG'ae4L
+batchim+oe1M'oe2N'oe3NG'oe4L
+batchim+uy1M'uy2N'uy3NG'uy4L
 batchim+aer'ier'uer'eer'oer'euer'eoer'aeer
+batchim+oeer'uyer
 
 vv+a'ae'i'ae'u'ae'e'ae
 vv+o'ae'eu'ae'eo'ae'a
-vv+ae'o
+vv+a'oe'i'oe'u'oe'e'oe
+vv+o'oe'eu'oe'eo'oe'a
+vv+a'uy'i'uy'u'uy'e'uy
+vv+o'uy'eu'uy'eo'uy'a
+vv+ae'ae'oe'ae'uy'ae
+vv+oe'oe'ae'oe'uy'oe
+vv+uy'uy'ae'uy'oe'uy
+vv+ae'o'oe'o'uy'o
 vsemiv+yae'yae_wae'wae_ae'ui
+vsemiv+oe'ya_oe'wa_oe'ui
+vsemiv+uy'ya_uy'wa_uy'ui
 vsemiv+yeoer'yeo_woer'wo_woer'euer
 semivv+y'y'yae_w'w'wae
 
@@ -16,6 +30,14 @@ cvc+ae'gae'nae'dae'rae'mae'bae'sae
 cvc+ae'jae'chae'kae'tae'pae'hae
 cvc+ae'jjae'ssae'kkae'ttae'ppae
 cvc+ael'lae_aeng'ngae
+cvc+oe'goe'noe'doe'roe'moe'boe'soe
+cvc+oe'joe'choe'koe'toe'poe'hoe
+cvc+oe'jjoe'ssoe'kkoe'ttoe'ppoe
+cvc+oel'loe_oeng'ngoe
+cvc+uy'guy'nuy'duy'ruy'muy'buy'suy
+cvc+uy'juy'chuy'kuy'tuy'puy'huy
+cvc+uy'jjuy'ssuy'kkuy'ttuy'ppuy
+cvc+uyl'luy_uyng'nguy
 
 cc+eoer'geoer'neoer'deoer'reoer'meoer'beoer'seoer
 cc+eoer'jeoer'cheoer'keoer'teoer'peoer'heoer
@@ -29,3 +51,5 @@ batchimv+ong'on'om'ol'oer'o
 batchimv+eung'eun'eum'eul'euer'eu
 batchimv+eong'eon'eom'eol'eoer'eo
 batchimv+aeng'aen'aem'ael'aeer'ae
+batchimv+oeng'oen'oem'oel'oeer'oe
+batchimv+uyng'uyn'uym'uyl'uyer'uy

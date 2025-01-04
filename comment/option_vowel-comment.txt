@@ -1,14 +1,28 @@
 v+aeLong'H 애(길게)'(거칠게날숨)
+v+oeLong'H 외(길게)'(거칠게날숨)
+v+uyLong'H 위(길게)'(거칠게날숨)
 batchim+eoer'R_erLong'H [영어 ER] 어ㄹ_ㄹ(길게)'(거칠게날숨)
 
--cv+hae 해
+-cv+hae_hoe_huy 해_회_휘
 batchim+ae1M'ae2N'ae3NG'ae4L 앰'앤'앵'앨
+batchim+oe1M'oe2N'oe3NG'oe4L 욈'왼'욍'욀
+batchim+uy1M'uy2N'uy3NG'uy4L 윔'윈'윙'윌
 batchim+aer'ier'uer'eer'oer'euer'eoer'aeer [영어 ER] 아ㄹ'이ㄹ'우ㄹ'에ㄹ'오ㄹ'으ㄹ'어ㄹ'애ㄹ
+batchim+oeer'uyer [영어 ER] 외er'위er
 
 vv+a'ae'i'ae'u'ae'e'ae 아'애'이'애'우'애'에'애
 vv+o'ae'eu'ae'eo'ae'a 오'애'으'애'어'애'아
-vv+ae'o 애'오
+vv+a'oe'i'oe'u'oe'e'oe 아'외'이'외'우'외'에'외
+vv+o'oe'eu'oe'eo'oe'a 아'외'으'외'어'외'아
+vv+a'uy'i'uy'u'uy'e'uy 아'위'이'위'우'위'에'위
+vv+o'uy'eu'uy'eo'uy'a 오'위'으'위'어'위'아
+vv+ae'ae'oe'ae'uy'ae 애'애'외'애'위'애
+vv+oe'oe'ae'oe'uy'oe 외'외'애'외'위'외
+vv+uy'uy'ae'uy'oe'uy 위'위'애'위'외'위
+vv+ae'o'oe'o'uy'o 애'오'외'오'위'오
 vsemiv+yae'yae_wae'wae_ae'ui 얘'얘_왜'왜_애'의
+vsemiv+oe'ya_oe'wa_oe'ui 외'야_외'와_외'의
+vsemiv+uy'ya_uy'wa_uy'ui 위'야_위'와_위'의
 vsemiv+yeoer'yeo_woer'wo_woer'euer [영어 ER] 여ㄹ'여_워ㄹ'워_워ㄹ'으ㄹ
 semivv+y'y'yae_w'w'wae 이'이'얘_우'우'왜
 
@@ -16,6 +30,14 @@ cvc+ae'gae'nae'dae'rae'mae'bae'sae 애'개'내'대'래'매'배'새
 cvc+ae'jae'chae'kae'tae'pae'hae 애'재'채'캐'태'패'해
 cvc+ae'jjae'ssae'kkae'ttae'ppae 애'째'쌔'깨'때'빼
 cvc+ael'lae_aeng'ngae 앨'래_앵'애
+cvc+oe'goe'noe'doe'roe'moe'boe'soe 외'괴'뇌'되'뢰'뫼'뵈'쇠
+cvc+oe'joe'choe'koe'toe'poe'hoe 외'최'쾨'퇴'푀'회
+cvc+oe'jjoe'ssoe'kkoe'ttoe'ppoe 외'쬐'쐬'꾀'뙤'뾔
+cvc+oel'loe_oeng'ngoe 욀'뢰_욍'외
+cvc+uy'guy'nuy'duy'ruy'muy'buy'suy 위'귀'뉘'뒤'뤼'뮈'뷔'쉬
+cvc+uy'juy'chuy'kuy'tuy'puy'huy 위'쥐'취'퀴'튀'퓌'휘
+cvc+uy'jjuy'ssuy'kkuy'ttuy'ppuy 위'쮜'쒸'뀌'뛰'쀠
+cvc+uyl'luy_uyng'nguy 윌'뤼_윙'위
 
 cc+eoer'geoer'neoer'deoer'reoer'meoer'beoer'seoer [영어 ER] 어ㄹ'거ㄹ'너ㄹ'더ㄹ'러ㄹ'머ㄹ'버ㄹ'서ㄹ
 cc+eoer'jeoer'cheoer'keoer'teoer'peoer'heoer [영어 ER] 어ㄹ'저ㄹ'처ㄹ'커ㄹ'터ㄹ'퍼ㄹ'허ㄹ
@@ -29,3 +51,5 @@ batchimv+ong'on'om'ol'oer'o [영어 ER] 옹'온'옴'올'오ㄹ'오
 batchimv+eung'eun'eum'eul'euer'eu [영어 ER] 응'은'음'을'으ㄹ'으
 batchimv+eong'eon'eom'eol'eoer'eo [영어 ER] 엉'언'엄'얼'어ㄹ'어
 batchimv+aeng'aen'aem'ael'aeer'ae [영어 ER] 앵'앤'앰'앨'애ㄹ'애
+batchimv+oeng'oen'oem'oel'oeer'oe [영어 ER] 욍'왼'욈'욀'외ㄹ'외
+batchimv+uyng'uyn'uym'uyl'uyer'uy [영어 ER] 윙'윈'윔'윌'위ㄹ'위
